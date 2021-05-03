@@ -1,5 +1,4 @@
-# Detecting infected Internet of Things (IoT) devices using Machine Learning
-My dissertation project as a Master's student at UCL. 
+# Detecting infected Internet of Things (IoT) devices using Machine Learning 
 
 The number of attacks on Internet of Things (IoT) devices is escalating over the last 
 few years, currently consisting of a third of all attacks. In this work, a suggested 
