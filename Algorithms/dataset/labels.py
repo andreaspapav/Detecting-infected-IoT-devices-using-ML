@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 from sklearn import preprocessing
 
+#Change the name of the dataset that you want to Label Encode
 data = pd.read_csv("binary_100k.csv")
 data.info()
 #Pre processing on specific columns, proto
